@@ -9,7 +9,7 @@ namespace SomeLibTests
         public void Test1()
         {
             // comment in test
-            int expteced = 3;
+            int expteced = 4;
             int actual = 1;
             Assert.Equal(expteced, actual);
         }
